@@ -31,7 +31,6 @@ A simple and intuitive **Expense Tracker** web application built with **HTML, CS
 
 ## 📂 Project Structure
 
-```bash
 expense-tracker/
 ├── index.html
 ├── style.css
