@@ -27,6 +27,7 @@ A simple and intuitive **Expense Tracker** web application built with **HTML, CS
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/3da2925f-9da4-44a4-921e-2d88d741c6bf)
+![image](https://github.com/user-attachments/assets/9d1f86c8-f652-49be-abb6-b06a3563cf09)
 
 
 ## 📂 Project Structure
