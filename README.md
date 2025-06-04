@@ -58,14 +58,13 @@ You can use this app directly in the browser, or run it locally:
 
 ### Option 1: Use GitHub Pages (Live)
 
-Just visit:  
-[https://singh-shalini.github.io/penny-track]
+Just visit:  https://singh-shalini.github.io/penny-track
 
 ### Option 2: Run Locally
 
  **Clone the repository**:
    ```bash
-   git clone [https://singh-shalini.github.io/penny-track]
+   git clone https://singh-shalini.github.io/penny-track
    cd penny-track
 ```
 
