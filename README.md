@@ -31,12 +31,13 @@ A simple and intuitive **Expense Tracker** web application built with **HTML, CS
 
 ## 📂 Project Structure
 
+```bash
 expense-tracker/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## 🧠 How It Works
 
@@ -55,18 +56,18 @@ expense-tracker/
 
 You can use this app directly in the browser, or run it locally:
 
-### 🔗 Option 1: Use GitHub Pages (Live)
+### Option 1: Use GitHub Pages (Live)
 
 Just visit:  
 [https://singh-shalini.github.io/penny-track]
 
-### 💻 Option 2: Run Locally
+### Option 2: Run Locally
 
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
-
+   git clone [https://singh-shalini.github.io/penny-track]
+   cd penny-track
+```
 
 ## 🧾 License
 
